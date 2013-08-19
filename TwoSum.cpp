@@ -54,4 +54,5 @@ int main()
             bg++;
         }
     }
+    return 0;
 }
